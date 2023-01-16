@@ -1,4 +1,4 @@
-# flat-remix-remix
+# Flat Remix Remix
 
 * [Flat Remix](https://github.com/daniruiz/flat-remix-gtk) theme adjusted to have white borders around windows for contrast.
 
